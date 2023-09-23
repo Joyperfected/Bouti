@@ -1,0 +1,117 @@
+body{
+    font-family:italics;
+}
+.hhome{
+    font-size:20px !important;
+    border-bottom:1px solid;
+    color:white !important;
+}
+.whyb{
+    color:black !important;
+    font-size: 18px !important;
+    color:white !important;
+}
+.whyb:hover{
+    border-bottom: 1px solid;
+}
+.whowe{
+    color:black !important;
+    font-size: 18px !important;
+    color:white !important;
+}
+.contb{
+    border:1px solid white !important;
+    color:white !important;
+}
+.contb:hover{
+    border:1px solid white;
+    background-color:transparent;
+   
+}
+ /* .navbb{
+    position:fixed;
+    width: 100%;
+}  */
+
+.max{
+    font-size:3rem;
+    font-weight:700;
+   color: black;
+}
+.zerop{
+    font-size:3rem;
+    font-weight:400;
+   color: black;
+}
+.boup{
+    font-size:20px;
+    color:white;
+}
+.conbtn{
+    border:1px solid lightseagreen;
+    background-color:lightseagreen;
+    color: white;
+    font-size:20px;
+    font-weight:600;
+    padding: 8px 30px;
+}
+.conbtn:hover{
+    background-color:rgb(129, 212, 208);
+    transition: all 0.4s;
+    border:1px solid rgb(129, 212, 208);
+}
+.h135{
+    font-size:45px;
+    font-weight:700;
+    color:white;
+}
+.comp{
+    font-size:18px;
+    color:white;
+}
+.divimg{
+    background-image:url(./boutique-view-interior-34493816.jpeg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-blend-mode:overlay;
+    background-color:rgba(0, 0, 0, .5);
+}
+.withcon{
+    font-size:3rem;
+    font-weight:400;
+    color:lightseagreen;
+}
+.blacksec{
+    background-color:black;
+}
+.airbnbp{
+    color:lightseagreen;
+    font-size: 1.2rem;
+}
+.airbnb{
+    color:white;
+    font-weight:700;
+}
+.boupp{
+    line-height:1.7rem;
+    font-size:1.2rem;
+}
+.aldriven{
+    font-weight:700;
+    padding: 13px 0px 7px 0px;
+}
+.miniform{
+    background-color:#333;
+    border:1px solid #333;
+    font-weight:700;
+    padding:12px;
+}
+.icontwit{
+    color:lightseagreen;
+    font-size: 1.4rem;
+    padding: 5px;
+}
+.tems{
+    color:gray
+}
